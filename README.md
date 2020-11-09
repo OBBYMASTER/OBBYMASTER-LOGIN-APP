@@ -1,0 +1,2 @@
+# OBBYMASTER-LOGIN-APP
+NEW OBBYMASTER PROJECTprint("Welcome to obbymasters LOGIN APP!!") username = input("Please Enter your Username: ") if username == "obbymaster":   password = input("Please Enter your password: ")   if password == "123456":     print("You have successfully login!!")   else:     print("Failed!!") else:   print("Failed!!")  NOTE: Guys to run this code please use obbymaster username or you can change this code and update your username and password. THANKS ALL
